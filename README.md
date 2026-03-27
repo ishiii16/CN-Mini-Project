@@ -3,7 +3,7 @@
 This project is a Computer Networks mini project that demonstrates secure communication between a client and a server using Python. It implements a secure network diagnostic tool where clients can perform ping operations and port scanning on remote hosts through a server, all secured with SSL/TLS encryption.
 
 ## Features
-
+hellooo bhailogoo
 - **Secure Communication**: Uses SSL/TLS encryption for all client-server interactions
 - **Network Diagnostics**: Supports ping and port scanning operations
 - **Multi-threaded Server**: Handles multiple client connections concurrently
